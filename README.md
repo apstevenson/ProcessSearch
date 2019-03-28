@@ -19,7 +19,7 @@ a XRMToolBox Plugin, and so I did.
 Quick Start Notes
 -----------------
 
-Important: Please read [General Search](#general-search-considerations.) Section
+Important: Please read the [General Search Considerations](#general-search-considerations.) Section in the Usage > Searching area.
 
 Features
 --------
