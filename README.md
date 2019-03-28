@@ -55,8 +55,8 @@ Search processes that call a specific child process
 ### In Memory Data
 
 Sometimes an XTB plugin will continue to get data from the Org when searching. I
-decided by loading the data in memory and then searching it locally on the
-machine, it would result in faster searching at the expense of a longer initial
+decided that by loading the data in memory. Then by searching it locally in memory on 
+the users machine, it would result in faster searching. But, at the expense of a longer initial
 data load of the Entities, Properties and Processes. With the added benefit of
 having the grid refresh faster. This also limits the data load on the server
 where doing a complex search could possibly time out.
