@@ -79,7 +79,7 @@ depending on how many entities and processes there are in the Org.
 
 Each selection on the search form is considered additive to the criteria, or
 maybe better understood as using And, not Or. For example, an English language
-query would be: Give me all Processes that Update and Create the Selected
+query would be: Give me all Processes that Update the Selected
 Entity. In this case it returns one process
 
 ![](media/717283aeafffcef53d691305e14188b5.png)
