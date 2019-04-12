@@ -1,4 +1,4 @@
-Process Search (Beta)
+Process Search
 =====================
 
 Background
@@ -175,6 +175,10 @@ If I just search using “Update” I retrieve a few more.
 ##### Child Process search
 
 Search for Processes that call the selected process as a child process
+
+##### Recursive Process search
+
+Search for Processes that calls themsevles.
 
 ##### Grid features
 
